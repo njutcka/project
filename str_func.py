@@ -1,7 +1,7 @@
-def line_upper(line):
+def line_upper(l):
     '''функция получает строкуб возвращает строку где все буквы загалвные'''
-    return line.upper()
+    return l.upper()
 
-def line_title(line):
+def line_title(l):
     '''получает строку, возвращает все слова с заглавной буквы'''
-    return line.title()
+    return l.title()
